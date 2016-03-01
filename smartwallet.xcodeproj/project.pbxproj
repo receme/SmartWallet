@@ -390,6 +390,7 @@
 				53A730DB1C77C826006630F6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		53A730DC1C77C826006630F6 /* Build configuration list for PBXNativeTarget "smartwalletTests" */ = {
 			isa = XCConfigurationList;
@@ -398,6 +399,7 @@
 				53A730DE1C77C826006630F6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
